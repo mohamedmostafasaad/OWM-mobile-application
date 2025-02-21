@@ -11,7 +11,7 @@ class StringsManager {
   static const emptyCostErrorText = 'No Cost Data can be found for the selected days';
   static const valveDelayWarningText = 'You need to wait 5 mintues to change the value of the switch...';
   // static const baseUrl = 'http://195.179.193.132/index.php/api/auth/user/';
-  static const baseUrl = 'https://owmmeter.com/';
+  static const baseUrl = 'https://owmmeter.com/backend';
   static const normalReading = 'Normal';
   static const pay = 'assets/pay.png';
   static const consumption = 'assets/consumption.png';
